@@ -92,6 +92,5 @@ UNION(Ostatnie12M, RokMinus1, RokObecny, RokMinus2)
 ---
 
 ## Contact & Author
-
-* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
-
+* **LinkedIn:** [linkedin.com/in/angelika-adamczewska](https://linkedin.com)
+* **GitHub:** [github.com/Angelama7](https://github.com)
