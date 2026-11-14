@@ -5,7 +5,11 @@ An interactive Business Intelligence dashboard analyzing sales performance, prof
 
 ## Interactive Demo
 
-https://github.com/user-attachments/assets/cff11716-0a4e-48c2-9e3e-cffdd9e6215e
+
+
+https://github.com/user-attachments/assets/914a21d1-724f-4f38-a390-1b26392063b4
+
+
 
 
 ## Key Business Insights (Last 12 Months View)
