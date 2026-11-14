@@ -4,6 +4,7 @@
 An interactive Business Intelligence dashboard analyzing sales performance, profitability, and order structures in the Polish railway sector (based on **9,994 transaction records**). The report enables dynamic exploration of revenue across regions, cities, product categories, and procurement modes.
 
 ## Interactive Demo
+
 https://github.com
 
 ## Key Business Insights (Last 12 Months View)
