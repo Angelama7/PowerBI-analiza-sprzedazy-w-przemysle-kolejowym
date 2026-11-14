@@ -5,7 +5,9 @@ An interactive Business Intelligence dashboard analyzing sales performance, prof
 
 ## Interactive Demo
 
-https://github.com
+
+
+
 
 ## Key Business Insights (Last 12 Months View)
 * **Overall Performance:** Total revenue reached **668,943 PLN** with a net profit of **84,685 PLN** (**12.7% profit margin**).
