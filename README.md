@@ -1,5 +1,7 @@
 # Railway Industry Sales Analysis (Power BI)
 
+*NOTE: The dashboard interface is in Polish as it reflects a local railway industry dataset; full business context, data model architecture, and DAX logic are documented in English below.*
+
 ## Project Overview
 An interactive Business Intelligence dashboard analyzing sales performance, profitability, and order structures in the Polish railway sector (based on **9,994 transaction records**). The report enables dynamic exploration of revenue across regions, cities, product categories, and procurement modes.
 
